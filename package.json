@@ -1,0 +1,15 @@
+{
+  "name": "twitup",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "electron ./src",
+    "dist": "gulp electron"
+  },
+  "author": "Louis Grellet <louis.grellet@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-electron": "0.0.10"
+  }
+}

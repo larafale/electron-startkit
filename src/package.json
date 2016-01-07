@@ -1,0 +1,9 @@
+{
+  "name": "twitup",
+  "version": "1.0.0",
+  "bundle": "com.twitup.bundle",
+  "main": "app.js",
+  "keywords": ["twitter", "autoreply"],
+  "author": "Louis Grellet <louis.grellet@gmail.com>",
+  "license": "MIT"
+}
